@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waifu Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body class="pink-mode">
+    <div class="container">
+        <h1>Waifu Generator</h1>
+        <div class="dropdown">
+            <label for="characterType">Choose character type:</label>
+            <select id="characterType">
+                <option value="waifu">Waifu</option>
+                <option value="neko">Neko</option>
+                <option value="shinobu">Shinobu</option>
+                <option value="cry">Cry</option>
+                <option value="happy">Happy</option>
+                <option value="nsfw">Hentai</option>
+            </select>
+        </div>
+        <button id="generateBtn">Let’s create your character ✨</button>
+        <div id="result" class="result-box">Your character will appear here 🎉</div>
+    </div>
+<footer class="footer">
+   <p>&copy; 2024 by <a href="https://github.com/kaizenn-me" target="_blank">kaizenn-me</a>. All Rights Reserved.</p>
+</footer>
+
+    <button id="themeToggleBtn" class="sun">🌞</button>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
