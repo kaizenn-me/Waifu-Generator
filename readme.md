@@ -11,7 +11,7 @@ Welcome to the **Waifu Generator**! This charming app allows you to create and e
 2. **Download the Project**: 
    - Clone this repository or download it as a zip file. Unzip it to your favorite folder! 🌟
    - ```bash
-     git clone https://github.com/yourusername/waifu-generator.git
+     git clone https://github.com/kaizenn-me/waifu-generator.git
      ```
 
 3. **Install Dependencies**: 
