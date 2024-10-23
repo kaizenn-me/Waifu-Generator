@@ -49,7 +49,7 @@ Welcome to the **Waifu Generator**! This charming app allows you to create and e
 - Use the sun or moon button to toggle between light and dark modes! The colors will change to create a cozy atmosphere when you switch to dark mode. 
 
 ### Add Some Fun Effects
-- In pink mode, enjoy delightful backgrounds like clouds or twinkling stars! It’s like a little slice of heaven! 🌌
+- In pink mode, enjoy delightful backgrounds like clouds or twinkling stars! It’s like a little slice of heaven! 🌌 (Umm... Still Not works Soryy)
 
 ## 📝 Licensing
 
