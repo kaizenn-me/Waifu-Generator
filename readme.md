@@ -52,8 +52,6 @@ Welcome to the **Waifu Generator**! This charming app allows you to create and e
 - In pink mode, enjoy delightful backgrounds like clouds or twinkling stars! It’s like a little slice of heaven! 🌌 (Umm... Still Not works Soryy)
 
 ## 📝 Licensing
-Sure! Here’s a cuter version of your text:
-
 🌟 GNU Affero General Public License v3.0 🌟
 
 This super-friendly license lets you share and modify the software, but it comes with a little magic! ✨ To keep things fair and fun, you must make the complete source code of your changes available under the same license.
